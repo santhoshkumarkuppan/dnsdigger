@@ -1,0 +1,2 @@
+# dnsdigger
+dns query tool
